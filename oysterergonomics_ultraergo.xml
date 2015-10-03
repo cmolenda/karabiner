@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<root>
+  <item>
+    <identifier>private.oysterergonomics_ultraergo</identifier>
+    <name>OysterErgonomics UltraErgo</name>
+    <autogen>__KeyToKey__ KeyCode::DANISH_DOLLAR, KeyCode::COMMAND_L</autogen>
+    <autogen>__KeyToKey__ KeyCode::COMMAND_L, KeyCode::CONTROL_L</autogen>
+    <autogen>__KeyToKey__ KeyCode::CONTROL_L, KeyCode::FN</autogen>
+  </item>
+</root>
+

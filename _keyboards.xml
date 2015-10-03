@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<root>
+  <include path='kinesis_freestyle2.xml' />
+  <include path='oysterergonomics_ultraergo.xml' />
+</root>
